@@ -1,0 +1,27 @@
+img1
+title:Air Jordan Diamond Pattern Slide Sandals.
+Description:Step into comfort and iconic style with these Air Jordan slides. Featuring a distinctive dark brown and beige diamond pattern across the strap, this footwear elevates
+ the classic slide design. The strap also proudly displays the "AIR JORDAN" text in a subtle gold or light tan color, adding a premium touch.
+
+img2
+title:Nike Off-Court Slides in Dusty Rose with Script Monogram
+description:Embrace soft comfort and subtle style with these dusty rose (light pink) slides, likely a model from Nike given the general aesthetic. The slides feature a comfortable, single-piece foam construction in a monochromatic color.
+
+img3
+title:Nike Off-White and Pink Striped Slide Sandals
+description:These are a pair of stylish Nike slides featuring a modern, two-tone design in off-white/cream and light pink/blush. The wide strap is made of a plush material in off-white, characterized by prominent horizontal ribbing that gives the sandal a contemporary, structured look. 
+
+img4
+title:Mint Green Abstract Debossed Air Jordan Slides
+description:Make a statement with these striking, monochromatic slides in a cool mint green or seafoam teal color. These slides, likely a Jordan Brand model, feature a thick, modern sole with a slightly squared profile. 
+
+igm5
+title:Classic Nike Victori One/Benassi Slide in Black and White
+description:This is the quintessential and widely popular Nike athletic slide, presented in the timeless black and white colorway. The design features a single, wide strap in solid black with the iconic white Nike "swoosh" logo and "NIKE" text prominently displayed. 
+
+img6
+title:Nike Victori One Slide in Mint Green and White with Raised Logo
+description:These vibrant Nike slides combine a refreshing color palette with a bold logo design. The sole and footbed are presented in a cool, solid mint green or light jade color, providing a cushioned base. The strap features a striking contrast, with a white center panel bordered by the same mint green.
+
+
+

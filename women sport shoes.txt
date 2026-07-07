@@ -1,0 +1,27 @@
+img1
+title:Nike Flex Experience Run/Runnner in Black and White
+description:This is a classic, lightweight Nike running shoe built for daily training and versatility. It features a sleek black mesh upper that provides maximum breath
+ability, complemented by a bold, contrasting white Swoosh logo. The shoe sits on a responsive, low-profile white foam midsole that offers lightweight cushioning and flexibility for natural movement. 
+
+
+img2
+title:Air Jordan Premium Diamond Print Lifestyle Slides
+descrption:These slides offer a sophisticated blend of casual comfort and iconic heritage style. The wide strap features a detailed dark brown and beige diamond grid pattern over a black background, with the "AIR JORDAN" text subtly printed in a light tan or gold color.  
+
+img3
+title:Jordan Lifestyle Slide in Monochromatic Mint Green with Sculpted Design
+description:These are striking, modern slides, likely a Jordan Brand model, presented in a cool, solid mint green or seafoam teal color. The wide, architectural strap is the main focal point, featuring an abstract, debossed pattern of sculpted lines and curves that give the slide a futuristic, art-inspired look.
+
+img4
+title:Nike Downshifter 13 Road Running Shoe - All White/Black
+description:The Nike Downshifter 13 is a versatile and lightweight running shoe designed for both new and experienced runners. It delivers a perfect balance of comfort, support, and durability, making it an excellent choice for daily jogs, treadmill sessions, or casual everyday wear.
+
+img5
+title:Nike MC Trainer 3 Men's Workout Shoes (Black/White)
+descriprtion:The Nike MC Trainer 3 is engineered to make every gym moment matter, seamlessly transitioning between circuit training, cardio, and weightlifting. This versatile training shoe is designed for stability and durability, featuring a flat, stable base that helps keep you steady during lateral movements and lifts. 
+
+img6
+title: Nike Star Runner 4 Little Kids' Running Shoes
+description:These are the Nike Star Runner 4 Little Kids' Running Shoes, designed for all-day play and activity. They feature a durable, yet breathable black mesh upper with vibrant pink accents on the Swoosh, heel, and outsole, sitting atop a clean white foam midsole. 
+
+
